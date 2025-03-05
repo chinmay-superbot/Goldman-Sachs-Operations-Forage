@@ -1,1 +1,2 @@
 # Goldman-Sachs-Operations-Forage
+Analysed financial data and identified issues in trade settlements and asset transfers for high-net-worth clients. Collaborated with cross-functional teams, including Trading, Compliance, and IT, to resolve complex operational issues. Applied best practices in operational risk management and regulatory compliance, demonstrating a strong understanding of the role's requirements. (Achieved exceptional quality of work)
